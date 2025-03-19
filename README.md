@@ -1,5 +1,5 @@
 # 👋 I'm Michele Grande!
-An aspiring Software Engineer based in Berlin with a strong passion for **Backend Development** and **Algorithms**.
+A Software Engineer based in Berlin with a strong passion for **Backend Development** and **Algorithms**.
 
 ## 🚀 Featured Projects
 
